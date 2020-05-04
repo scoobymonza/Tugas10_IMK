@@ -1,0 +1,30 @@
+body {
+    background-color: #9fc7fd;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+
+hr {
+    border-style: dashed none none;
+    border-color: #000000;
+    border-width: 10px;
+    height: 0px;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+
+#heading {
+    font-family: "Comic Sans MS";
+    color: #d847e6;
+}
+
+.table {
+    background-color: #ff66aa;
+}
+
+.profil {
+    font-family: "Comic Sans MS";
+}
